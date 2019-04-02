@@ -4,3 +4,4 @@ Git has a utable index called stage.
 Git tracks changes of files.
 push remote.
 create a new branch is quick.
+create a new branch is quick & simple.
